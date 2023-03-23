@@ -9,8 +9,5 @@ Skills: PHP, Python, Javascript, HTML, CSS, SQL, Bootstrap, Codeigniter, Wordpre
 - 🔭 I’m currently working on Atlas Mara Web design 
 - 🌱 I’m currently learning Python and Codeigniter 
 - 👯 I’m looking to collaborate on E-commerce web applications 
-- ⚡ Fun fact: I love coding for fun and reading books 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Isaiah Musenga)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Isaiah Musenga/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Isaiah Musenga)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/isaiahmusenga/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](isaiahmusenga.me)  
+- ⚡ Fun fact: I love coding for fun and reading books  
 
