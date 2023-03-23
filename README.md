@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Isaiah
 #### I am a Web Design/Developer
-![I am a Web Design/Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Web Design/Developer](https://github.com/Isaiah-Musenga/Isaiah-Musenga/blob/main/Isaiah%20Musenga.png)
 
 I really enjoy leanrning web and mobile frameworks and programming languages like PHP, Python, Codeigniter, flutterwave, as well as work in Wordpress. I also enjoy designing UI and UX with tools like Figma and Adobe XD.
 
