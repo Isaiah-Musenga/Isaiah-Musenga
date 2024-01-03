@@ -4,7 +4,7 @@
 
 I really enjoy leanrning web and mobile frameworks and programming languages like PHP, Python, Codeigniter, flutterwave, as well as work in Wordpress. I also enjoy designing UI and UX with tools like Figma and Adobe XD.
 
-Skills: PHP, Python, Javascript, HTML, CSS, SQL, Bootstrap, Wordpress
+Skills: PHP, Javascript, HTML, CSS, SQL, Bootstrap, Wordpress
 
 - 🔭 I’m currently working on Atlas Mara Web design 
 - 🌱 I’m currently learning Python and Codeigniter 
